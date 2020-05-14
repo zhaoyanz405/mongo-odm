@@ -1,2 +1,2 @@
 ### Description
-an Object-Document-Model utils based on Pymongo
+An Object-Document-Model utils which is based on Pymongo.
